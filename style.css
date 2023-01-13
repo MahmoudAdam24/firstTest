@@ -1,6 +1,6 @@
 h1{
-    color:red;
+    color:green(0, 255, 0)(0, 255, 13);
 }
 body{
-    background-color: aqua;
+    background-color: yellow;
 }
